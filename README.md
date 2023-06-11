@@ -7,7 +7,7 @@
 
 
 2. chmod +x Domain_IP.py
-3. cd
+3. cd DomainIP
 4. ls
 5. ./Domain_IP.py
 
