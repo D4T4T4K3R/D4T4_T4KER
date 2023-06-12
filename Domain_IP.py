@@ -20,3 +20,9 @@ ip = socket.gethostbyname(Domain_name)
 
 print(ip)
 
+
+
+Print ("Exit")
+
+
+
